@@ -1,0 +1,71 @@
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Dd]evelopment/
+[Dd]ist/
+[Dd]istros/
+[Dd]ebug/
+[Dd]ebugNet/
+[Dd]ebugCore/
+obj/
+bin/
+
+# User-specific files for JetBrains Rider (if used)
+.idea/
+
+# VS Code files
+.vscode/
+
+# ASP.NET temporary files
+# These folders are used for temporary files, and should not be included in version control.
+.vs/
+.vs2019/
+.vs2017/
+.vs2015/
+.vscode/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows Installer packages
+*.pdb
+*.exe
+*.dll
+
+# Windows specific files
+Thumbs.db
+ehthumbs.db
+
+# OS generated files
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+
+# JetBrains Rider project files (if used)
+.idea/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Build output directories (added by Visual Studio or other build systems)
+bin/
+obj/
+
+# Windows Installer packages
+*.pdb
+*.exe
+*.dll
